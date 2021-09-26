@@ -1,1 +1,1 @@
-# deep_learning_classification
+# Classificador para os números 0 e 5
